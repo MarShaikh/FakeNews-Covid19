@@ -7,3 +7,5 @@ Fake News detection for Covid-19 data. Jupyter notebooks found here contain of t
 </ul>
 
 # Getting started
+Install the dependencies from the <em> requirements.txt </em> file <br>
+  <code>pip install -r requirements.txt </code>
