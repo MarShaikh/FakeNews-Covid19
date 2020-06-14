@@ -1,9 +1,9 @@
 # FakeNews-Covid19
-Fake News detection for Covid-19 data. Jupyter notebooks found here contain of the following:
+This repository contains models for fake news detection of COVID-19 data with spatial and temporal features. Jupyter notebooks found here contain of the following:
 <ul>
-  <li>LSTM Model without spatio temporal features</li>
-  <li>LSTM Model with hyper parameterization</li>
-  <li>Model with country and date information</li>
+  <li>LSTM Model without spatial and temporal information</li>
+  <li>LSTM Model with spatial and temporal information</li>
+  <li>Hyperparameter optimization of the two models</li>
 </ul>
 
 # Getting started
