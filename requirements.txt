@@ -92,7 +92,7 @@ psutil==5.6.7
 ptyprocess==0.6.0
 pycparser==2.19
 pydot==1.4.1
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint==2.4.4
 pyOpenSSL==19.1.0
