@@ -28,7 +28,7 @@ entrypoints==0.3
 feedfinder2==0.0.4
 feedparser==5.2.1
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 gast==0.2.2
 gensim==3.8.0
 geonamescache==1.1.0
